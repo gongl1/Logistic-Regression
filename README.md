@@ -4,6 +4,10 @@
 
 ![1-Logo](Images/logmodel-titanic.png)
 
+![2-Logo](Images/logmodel-ad.png)
+
+![3-Logo](Images/jointplot-ad.png)
+
 Create a simple heatmap to see where we are missing data.
 
 Fill in missing age data by check the average age by passenger class.
